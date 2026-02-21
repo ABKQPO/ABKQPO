@@ -37,6 +37,9 @@ I'm actively contributing to these flagship repositories:
 		<img src="https://img.shields.io/github/stars/GTNewHorizons/GT-New-Horizons-Modpack?style=for-the-badge&label=Stars"/>
 		<img src="https://img.shields.io/github/forks/GTNewHorizons/GT-New-Horizons-Modpack?style=for-the-badge&label=Forks"/>
 	</a>
+</p>
+
+<p>
 	<a href="https://github.com/ABKQPO/GT-Not-Leisure">
 		<img src="https://img.shields.io/badge/GT--Not--Leisure-Java-B07219?style=for-the-badge&logo=github&logoColor=white"/>
 		<img src="https://img.shields.io/github/stars/ABKQPO/GT-Not-Leisure?style=for-the-badge&label=Stars"/>
@@ -50,6 +53,9 @@ I'm actively contributing to these flagship repositories:
 		<img src="https://img.shields.io/github/stars/ABKQPO/Modernity-GTNH?style=for-the-badge&label=Stars"/>
 		<img src="https://img.shields.io/github/forks/ABKQPO/Modernity-GTNH?style=for-the-badge&label=Forks"/>
 	</a>
+</p>
+
+<p>
 	<a href="https://github.com/ABKQPO/Modernity-GTNH-UI">
 		<img src="https://img.shields.io/badge/Modernity--GTNH--UI-UI%20Pack-9C27B0?style=for-the-badge&logo=github&logoColor=white"/>
 		<img src="https://img.shields.io/github/stars/ABKQPO/Modernity-GTNH-UI?style=for-the-badge&label=Stars"/>
