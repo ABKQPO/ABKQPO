@@ -1,4 +1,4 @@
-# ABKQPO<img src="./img/logo-readme.png" align="right">
+# ABKQPO<img src="./img/logo-readme.svg" align="right">
 
 > 🖖 Minecraft Fan
 
